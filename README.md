@@ -4,6 +4,9 @@
 
 This project develops and compares several MPC strategies for landing a thrust-vector-controlled rocket while respecting state and actuator constraints.
 
+> **Note:** This project was completed using an EPFL-provided starter framework containing the rocket model, simulation utilities, and controller templates. Our work focused on implementing, extending, tuning, and evaluating the MPC controllers required throughout the project.
+
+
 ## Methods
 
 - Linear MPC for velocity and attitude regulation
